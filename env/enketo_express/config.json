@@ -1,7 +1,7 @@
 {
     "app name": "DA Registry System",
     "linked form and data server": {
-        "name": "KoBo Toolbox",
+        "name": "DA Registry",
         "server url": "",
         "api key": "CHANGE ME!!"
     },
